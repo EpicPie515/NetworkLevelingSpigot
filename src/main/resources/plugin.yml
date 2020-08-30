@@ -1,0 +1,7 @@
+main: net.kjnine.networkleveling.NetworkLevelingSpigotAdapter
+name: NetworkLevelingAPI
+version: 0.1.0
+commands:
+    netlevelapi:
+        description: Test connectivity to the Proxy's Network Leveling System.
+        permission: netlevel.test

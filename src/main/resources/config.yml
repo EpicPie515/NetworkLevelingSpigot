@@ -1,0 +1,6 @@
+netmsg: REDIS # REDIS, or PLUGIN
+# for Redis. Plugin messaging ignores this.
+redis-connection:
+    address: localhost
+    port: 6379
+    pass: redis123
